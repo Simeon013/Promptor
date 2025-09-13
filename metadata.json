@@ -1,0 +1,5 @@
+{
+  "name": "Générateur de Prompts IA",
+  "description": "Une application web pour générer et améliorer des prompts pour les modèles d'intelligence artificielle, en utilisant l'API Gemini.",
+  "requestFramePermissions": []
+}
